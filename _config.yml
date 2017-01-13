@@ -1,5 +1,5 @@
 deploy:
-type: git
-repo: git@github.com:CoolRandy/coolrandy.github.io.git
-branch: master
-theme:  jekyll-theme-merlot
+  type: git
+  repo: git@github.com:CoolRandy/coolrandy.github.io.git
+  branch: master
+  theme:  jekyll-theme-merlot
